@@ -1,5 +1,7 @@
 # Raspberry Pi 4 Low Light Photography
 
+![Completed Low Light Camera](images/IMG_4030.jpeg)
+
 ## Overview
 
 The reasonably new Raspberry Pi High Quality (HQ) camera allows for some
