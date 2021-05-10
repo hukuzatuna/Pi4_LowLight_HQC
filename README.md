@@ -68,6 +68,10 @@ blue spacer).
 the camera, at least.
 15. Copy lowlight.py onto the Raspberry Pi.
 16. Focus the lens. Honestly, this is the most fiddly bit.
+17. Run
+```
+sudo pip3 install picamera
+```
 
 ## Operation
 
