@@ -87,7 +87,8 @@ the stars will be round and sharp. That way you can take multiple images of the
 same part of the sky and stack the images.
 
 Run the camera capture with the command
-```python3 lowlight.py
+```
+python3 lowlight.py
 ```
 This will write a datestamped JPG image in the current directory. If you want to
 change the shutter speed, edit the lowlight.py file. Yes, this is terrible. Yes, I 
